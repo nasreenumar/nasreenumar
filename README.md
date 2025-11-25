@@ -19,9 +19,9 @@ I work with Firebase, Node.js backend, SQL, and reusable UI components with clea
 | Category | Tools |
 |---------|-------|
 | Languages | Dart, JavaScript, SQL, C# |
-| Frameworks & Tools | Flutter, Firebase, Node.js, .NET (optional) |
+| Frameworks & Tools | Flutter, Firebase, Node.js, .NET |
 | Database | Firestore, Realtime DB, MySQL |
-| State Management | Provider, GetX, Riverpod (if used) |
+| State Management | Provider, GetX, Riverpod|
 | Others | Git, Postman, REST APIs, FCM, Google Maps API |
 
 ---
